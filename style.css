@@ -15,6 +15,8 @@
 .logo{
     height:5vh;
     background-color: white;
+    text-align:center;
+    font-size: 30px;
 }
 .navigation{
     height:4vh;
@@ -28,8 +30,13 @@
 }
 .left{
     width:20%;
-    background-color: violet;
+    background-color: white;
     height:90vh;
+}
+.menu-item{
+    height:4vh;
+    border-radius: 10px;
+    background-color:salmon;
 }
 .middle{
     width:50%;
