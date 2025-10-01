@@ -38,6 +38,11 @@
     border-radius: 10px;
     background-color:salmon;
 }
+.company{
+    width:80%;
+    height:20vh;
+    border-radius:50px;
+}
 .middle{
     width:50%;
     background-color: lightblue;
