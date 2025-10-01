@@ -15,7 +15,7 @@
 .logo{
     height:5vh;
     background-color: white;
-    margin:0 auto;
+    text-align:center;
     font-size: 30px;
 }
 .icon{
@@ -25,6 +25,7 @@
 .navigation{
     height:5vh;
     background-color: salmon;
+    margin:0 auto;
 }
 .meme{
     text-align:center;
