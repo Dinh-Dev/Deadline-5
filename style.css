@@ -7,6 +7,7 @@
     background-color:salmon;
     height:113vh;
     font-family: 'Times New Roman', Times, serif;
+    border: 2px solid salmon;
 }
 .header{
     width:100%;
