@@ -57,9 +57,11 @@
     height:15px;
     border-radius: 20px;
     background-color:salmon;
-    padding: 10px;
-    margin-top:7px;
+    color:white;
+    padding: 10px 20px;
+    margin-top:10px;
     margin-bottom: 7px;
+    margin-right:7px;
 }
 .company{
     width:95%;
@@ -81,6 +83,7 @@
     background-color: salmon;
     display: flex;
     margin: 0 auto;
+    padding: 5px 15px;
     font-size: 30px;
 }
 .input_text{
@@ -99,7 +102,7 @@
 }
 .dv{
     background-color:black;
-    height:74vh;
+    height:80vh;
     color:white;
 }
 .line{
