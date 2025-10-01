@@ -25,14 +25,14 @@
     height:35px;
 }
 .navigation{
-    height:5vh;
     background-color: salmon;
     margin:0 auto;
+    display:flex;
 
 }
 .meme{
     text-align:center;
-    font-size: 30px;
+    font-size: 18px;
     color:white;
 }
 .center{
@@ -50,6 +50,7 @@
     height:4vh;
     border-radius: 10px;
     background-color:salmon;
+    margin:5px;
 }
 .company{
     width:95%;
