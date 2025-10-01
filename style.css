@@ -89,6 +89,9 @@
     height:80vh;
     color:white;
 }
+.line{
+    margin:0 auto;
+}
 .picture{
     width:80%;
     height:20vh;
