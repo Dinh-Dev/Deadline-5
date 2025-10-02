@@ -116,6 +116,12 @@
     margin-top:15px;
     margin-left: 10px;
 }
+.input_text2{
+    width: 41%;
+    height:5vh;
+    margin-top:15px;
+    margin-left: 10px;
+}
 .input_text1{
     width:83%;
     height:7vh;
@@ -123,7 +129,7 @@
     margin-left: 10px;
 }
 .c2{
-    margin-left:10px;
+    margin-left:12px;
 }
 .right{
     width:30%;
